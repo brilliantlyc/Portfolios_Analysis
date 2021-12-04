@@ -7,4 +7,4 @@ The technologies required to use this project include: python 3.7 and pandas wit
 ## Examples
 The data is read from CSV files containing either daily returns or close prices, and added to DataFrames. The data is cleaned in preparation for analysis. Then, quantitative analysis is completed which includes: performance analysis, risk analysis, rolling statistic, and Sharpe Ratios.
 
-![Sharpe Ratios](images/SharpeRatiosExample.jpg)
+![Sharpe Ratios](Images/SharpeRatiosExample.jpg)
